@@ -88,6 +88,40 @@ Angular • Spring Boot • GeoServer • PostgreSQL • PostGIS • REST APIs
 
 ---
 
+🏢 BIPV Portal – Building Integrated Photovoltaics
+
+Developed a comprehensive Building Integrated Photovoltaics (BIPV) web portal that promotes the adoption of solar-integrated building technologies.
+
+The portal provides manufacturers, architects, policymakers, and researchers with centralized access to design guidelines, product information, case studies, technical resources, training programs, and decision-support tools.
+
+Key Contributions
+Developed responsive Angular pages.
+Built interactive UI components.
+Designed resource and training modules.
+Implemented advanced filtering and search.
+Optimized performance and accessibility.
+Enhanced SEO and responsive layouts.
+
+Tech Stack: Angular • TypeScript • SCSS • REST APIs • PrimeNG
+---
+
+🤖 BIPV 3D Rooftop Auto Detection using YOLO
+
+Worked on an AI-powered solution for automatic rooftop detection and Building Integrated Photovoltaic (BIPV) assessment using YOLO (You Only Look Once) object detection.
+
+The system analyzes aerial imagery and 3D rooftop datasets to automatically identify suitable rooftop surfaces for photovoltaic integration, significantly reducing manual inspection time and improving assessment accuracy.
+
+Key Contributions
+Integrated AI-based rooftop detection workflows.
+Processed aerial imagery and rooftop datasets.
+Assisted in 3D rooftop visualization.
+Supported GIS-based solar suitability analysis.
+Collaborated with frontend and backend teams for visualization.
+
+Technologies: YOLO • Computer Vision • Python • GIS • GeoServer • LiDAR • REST APIs
+
+---
+
 ## 🌍 PAVITRA – Air Pollution Decision Support Platform
 
 Contributed to **PAVITRA**, an environmental decision-support platform focused on analyzing air pollution, emissions, and environmental impact through interactive dashboards and scientific visualizations.
@@ -132,11 +166,24 @@ Java • Spring Boot • MySQL • Angular
 
 ---
 
-## 🌐 DreamCodex Systems
+🌐 DreamCodex Systems – Enterprise Technology Solutions Platform
 
-Designed and developed a premium corporate website for an enterprise technology company showcasing AI solutions, cloud services, software development, UI/UX, and digital transformation capabilities.
+Developed a modern, enterprise-grade corporate website for DreamCodex Systems, showcasing the company's expertise in software engineering, AI-powered solutions, cloud technologies, digital transformation, UI/UX design, and enterprise consulting.
 
-Implemented modern UI, responsive layouts, animations, and SEO optimization.
+The website was designed with a premium user experience, focusing on performance, accessibility, SEO, and responsive design while effectively communicating the company's services, industry expertise, and technology capabilities.
+
+Key Contributions
+Designed and developed responsive UI using modern frontend technologies.
+Built reusable React components for maintainable architecture.
+Implemented smooth animations and interactive user experiences.
+Optimized website performance, accessibility, and SEO.
+Developed dynamic service pages with modern layouts.
+Integrated contact forms and business inquiry workflows.
+Enhanced cross-browser compatibility and mobile responsiveness.
+
+Tech Stack
+
+React • TypeScript • Tailwind CSS • Vite • Framer Motion • HTML5 • CSS3 • JavaScript
 
 ---
 
