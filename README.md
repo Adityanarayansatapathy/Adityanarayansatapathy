@@ -88,7 +88,7 @@ Angular • Spring Boot • GeoServer • PostgreSQL • PostGIS • REST APIs
 
 ---
 
-🏢 BIPV Portal – Building Integrated Photovoltaics
+## 🏢 BIPV Portal – Building Integrated Photovoltaics
 
 Developed a comprehensive Building Integrated Photovoltaics (BIPV) web portal that promotes the adoption of solar-integrated building technologies.
 
@@ -102,16 +102,20 @@ Implemented advanced filtering and search.
 Optimized performance and accessibility.
 Enhanced SEO and responsive layouts.
 
-Tech Stack: Angular • TypeScript • SCSS • REST APIs • PrimeNG
+**Tech Stack**
+
+Angular • Spring Boot • GeoServer • PostgreSQL • PostGIS • REST APIs
+
 ---
 
-🤖 BIPV 3D Rooftop Auto Detection using YOLO
+## 🤖 BIPV 3D Rooftop Auto Detection using YOLO
 
 Worked on an AI-powered solution for automatic rooftop detection and Building Integrated Photovoltaic (BIPV) assessment using YOLO (You Only Look Once) object detection.
 
 The system analyzes aerial imagery and 3D rooftop datasets to automatically identify suitable rooftop surfaces for photovoltaic integration, significantly reducing manual inspection time and improving assessment accuracy.
 
-Key Contributions
+### Responsibilities
+
 Integrated AI-based rooftop detection workflows.
 Processed aerial imagery and rooftop datasets.
 Assisted in 3D rooftop visualization.
@@ -172,7 +176,7 @@ Developed a modern, enterprise-grade corporate website for DreamCodex Systems, s
 
 The website was designed with a premium user experience, focusing on performance, accessibility, SEO, and responsive design while effectively communicating the company's services, industry expertise, and technology capabilities.
 
-Key Contributions
+### Key Contributions
 Designed and developed responsive UI using modern frontend technologies.
 Built reusable React components for maintainable architecture.
 Implemented smooth animations and interactive user experiences.
