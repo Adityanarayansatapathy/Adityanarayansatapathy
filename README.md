@@ -2,168 +2,102 @@
 
 Welcome to my GitHub Galaxy! 🌌
 
-I'm **Aditya Narayan Satapathy**, a passionate **Full Stack Software Engineer** crafting scalable enterprise applications and innovative digital solutions that solve real-world problems. My journey spans across **Smart Cities 🏙️, Renewable Energy ☀️, GIS Technologies 🌍, Enterprise Platforms 🏢, and Artificial Intelligence 🤖**, where I combine technology with creativity to build impactful software products.
+I'm Aditya Narayan Satapathy, a passionate Full Stack Software Engineer crafting innovative solutions with code. This repository is a showcase of my projects spanning Frontend Development ⚛️, Backend Engineering ☕, Microservices Architecture ⚙️, Cloud Technologies ☁️, Modern Web Applications 🌐, and Artificial Intelligence 🤖, blending technology with creativity to build scalable and user-centric software solutions.
 
-From developing municipal administration systems for multiple cities to contributing to AI-powered rooftop detection platforms, I enjoy transforming ideas into production-ready solutions that make a difference.
+From developing Municipal Administration Platforms for multiple cities to contributing to AI-powered rooftop detection and renewable energy solutions, I enjoy transforming ideas into reliable, production-ready software that creates impact.
 
-Buckle up and explore my digital universe! 🚀✨
+Buckle up and explore my digital universe! ✨
 
----
+🌟 **About Me**
 
-## 🌟 About Me
+I'm a Full Stack Software Engineer with experience in building dynamic, scalable, and enterprise-grade applications. My projects span across enterprise web development, GIS platforms, renewable energy systems, backend services, and AI-driven applications.
 
-I'm a Full Stack Software Engineer with a strong passion for building modern, scalable, and high-performance enterprise applications.
-
-💻 Full Stack Software Engineer  
-🚀 Passionate about Enterprise Software Development  
-🏙️ Experienced in Smart City and GIS Applications  
-☀️ Worked on Renewable Energy Platforms  
-🤖 Exploring AI/ML and Generative AI  
-⚡ Strong believer in clean architecture and reusable components  
-🌍 Based in India 🇮🇳  
-
-Always learning. Always building. Always innovating.
-
----
-
-## 📫 Connect With Me
+📍 Based in India 🇮🇳, I'm constantly exploring new technologies and modern architectures to build smarter and more efficient software solutions.
 
 📧 Email: **adityasachikanta12@gmail.com**  
 📱 Phone: **+91 9556277718**  
 🔗 LinkedIn: **linkedin.com/in/aditya-narayan-satapathy-6078a6224**  
 🛠 GitHub: **github.com/Adityanarayansatapathy**
 
----
+🛸 **Featured Projects**
 
-## 🛸 Featured Projects
+🏙️ **MCA – Municipal Corporation Administration Platform**  
+Developed backend services, database schemas, and REST APIs for multiple city implementations including Prayagraj, Kanpur, Vishakhapatnam, Kakinada, Varanasi, Bellary, Aurangabad, and Tirupati.
 
-### 🏙️ MCA – Municipal Corporation Administration Platform
+**Tech Stack:** Java, Spring Boot, PostgreSQL, REST APIs, Microservices  
+**Features:** Database design, schema creation, API development, Get All Parameters API, testing, deployment support.
 
-An enterprise Smart City platform developed for managing urban infrastructure, municipal assets, citizen services, and city operations across multiple cities.
+☀️ **RTSE – Rooftop Solar Estimation Platform**  
+A GIS-powered national-scale platform developed for rooftop solar estimation using satellite imagery and geospatial technologies.
 
-**Key Contributions:**
-- Developed backend APIs and business services
-- Designed database schemas and table structures
-- Implemented city-specific configurations
-- Developed Get All Parameters APIs
-- Supported testing and deployment activities
+**Tech Stack:** Angular, Spring Boot, GeoServer, PostgreSQL, PostGIS  
+**Features:** Solar estimation, GIS visualization, dashboard analytics, geospatial processing.
 
-📍 **Cities Delivered:** Prayagraj, Kanpur, Vishakhapatnam, Kakinada, Varanasi, Bellary, Aurangabad, and Tirupati
+🏢 **BIPV Portal – Building Integrated Photovoltaics**  
+A centralized portal promoting solar-integrated building technologies with resources, training modules, and technical documentation.
 
-**Tech Stack:** Java, Spring Boot, PostgreSQL, REST APIs, Microservices
+**Tech Stack:** Angular, Spring Boot, PostgreSQL, REST APIs  
+**Features:** Responsive UI, advanced filtering, feature enhancements, issue resolution, requirement-based implementations.
 
----
+🤖 **BIPV 3D Rooftop Auto Detection**  
+An AI-powered solution for rooftop detection and 3D photovoltaic panel visualization using Computer Vision technologies.
 
-### ☀️ RTSE – Rooftop Solar Estimation Platform
+**Tech Stack:** Python, YOLO, Computer Vision, GIS, GeoServer  
+**Features:** Rooftop detection, AI workflows, 3D panel placement, visualization modules.
 
-A GIS-powered national-scale platform developed for rooftop solar potential estimation using satellite imagery and spatial data.
+🌍 **PAVITRA – Air Pollution Decision Support Platform**  
+Developed and deployed a complete environmental intelligence platform focused on air quality analysis and scientific visualizations.
 
-**Tech Stack:** Angular, Spring Boot, GeoServer, PostgreSQL, PostGIS
+**Tech Stack:** Angular, TypeScript, SCSS, REST APIs  
+**Features:** Interactive dashboards, responsive design, performance optimization, deployment support.
 
----
+🌐 **DreamCodex Systems**  
+An enterprise technology platform showcasing software engineering, AI solutions, cloud technologies, and digital transformation services.
 
-### 🏢 BIPV Portal – Building Integrated Photovoltaics
+**Tech Stack:** React.js, TypeScript, Tailwind CSS, Framer Motion, Vite  
+**Features:** Premium UI/UX, animations, SEO optimization, responsive design.
 
-A centralized platform promoting solar-integrated building technologies and providing access to resources, training, products, and technical documentation.
+💻 **Tech Stack**
 
-**Key Contributions:**
-- Implemented new features and enhancements
-- Developed responsive UI modules
-- Fixed production issues and bugs
-- Delivered requirement-based improvements
+**Frontend:** Angular, React.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, PrimeNG, Angular Material  
+**Backend:** Java, Spring Boot, REST APIs, Microservices  
+**Databases:** PostgreSQL, MySQL, PostGIS  
+**GIS:** GeoServer, Spatial Data, LiDAR, GIS Mapping  
+**Tools:** Git, GitHub, Maven, Postman, IntelliJ IDEA, VS Code, DBeaver  
+**Other:** AI/ML, Computer Vision, Generative AI, API Development
 
-**Tech Stack:** Angular, Spring Boot, PostgreSQL, REST APIs
+🌍 **Professional Journey**
 
----
+**Full Stack Software Engineer** *(2024 – Present)*
 
-### 🤖 BIPV 3D Rooftop Auto Detection
+• Developed enterprise applications for Smart Cities and Renewable Energy initiatives.  
+• Worked on MCA, RTSE, BIPV, and PAVITRA platforms.  
+• Built scalable frontend applications and backend services.  
+• Worked extensively with GIS technologies and spatial datasets.  
+• Contributed to AI-powered rooftop detection initiatives.
 
-Worked on AI-powered rooftop detection and 3D panel visualization for photovoltaic assessment.
+🎓 **Education**
 
-Successfully developed two fully functional demo applications demonstrating rooftop identification and 3D panel placement workflows.
+Bachelor of Technology in Computer Science Engineering 🎓
 
-**Tech Stack:** Python, YOLO, Computer Vision, GIS, GeoServer
-
----
-
-### 🌍 PAVITRA – Air Pollution Decision Support Platform
-
-Developed and delivered the complete PAVITRA website with modern UI, responsive layouts, and requirement-based enhancements.
-
-**Key Contributions:**
-- End-to-end website development
-- Requirement implementation
-- UI/UX enhancements
-- Deployment support
-
-**Tech Stack:** Angular, TypeScript, SCSS, REST APIs
-
----
-
-### 🌐 DreamCodex Systems
-
-An enterprise technology solutions platform showcasing software engineering, AI solutions, cloud technologies, and digital transformation services.
-
-**Tech Stack:** React, TypeScript, Tailwind CSS, Framer Motion, Vite
-
----
-
-## 💻 Tech Stack
-
-### Frontend
-Angular • React • TypeScript • JavaScript • HTML • CSS • Tailwind CSS • PrimeNG • Angular Material
-
-### Backend
-Java • Spring Boot • REST APIs • Microservices
-
-### Database
-PostgreSQL • MySQL • PostGIS
-
-### GIS Technologies
-GeoServer • GIS Mapping • LiDAR • Spatial Data
-
-### AI & Emerging Technologies
-Artificial Intelligence • Machine Learning • Computer Vision • Generative AI
-
-### Tools
-Git • GitHub • Maven • Postman • DBeaver • IntelliJ IDEA • VS Code
-
----
-
-## 🌱 Currently Exploring
+🌱 **Currently Exploring**
 
 🚀 System Design  
 🏗️ Deep Microservices Architecture  
-🤖 Artificial Intelligence and Machine Learning  
-🧠 Deep Learning and Computer Vision  
+🤖 Artificial Intelligence & Machine Learning  
+🧠 Deep Learning & Computer Vision  
 ✨ Generative AI  
 ☁️ AWS Cloud  
-🐳 Docker and Kubernetes  
+🐳 Docker & Kubernetes
 
----
+🚀 **Get Involved!**
 
-## 🌍 Professional Journey
+Want to collaborate on exciting projects or explore my work?
 
-### 💼 Full Stack Software Engineer
+🌟 Star this repository to show some love!  
+📩 Reach out via Email or LinkedIn.  
+🛠 Check out my code and contribute to my projects!
 
-Building enterprise solutions across:
+Let's build something impactful together! 🌠
 
-🏙️ Smart Cities  
-☀️ Renewable Energy  
-🌍 GIS Platforms  
-🤖 Artificial Intelligence  
-🏢 Enterprise Digital Transformation  
-
----
-
-## 🚀 Let's Build Something Amazing
-
-Want to collaborate on innovative projects or explore my work?
-
-🌟 Star my repositories to show support.  
-📩 Reach out via LinkedIn or Email.  
-🛠 Explore my projects and contribute to the journey.
-
-Let's build technology that creates impact and shapes the future! 🌠
-
-> **"Code is not just syntax and logic — it's the foundation for innovation, transformation, and endless possibilities."** 🚀
+> **"Code is like energy—when directed with purpose, it powers innovation and transforms ideas into reality."** 🚀
